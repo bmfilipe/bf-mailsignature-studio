@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  🌐 <strong>Live Demo:</strong> <a href="https://bmfilipe.github.io/bf-mailsignature-studio/">https://bmfilipe.github.io/bf-mailsignature-studio/</a>
+</p>
+
+<p align="center">
   <a href="#-português">Português</a> •
   <a href="#-english">English</a> •
   <a href="#-español">Español</a> •
@@ -63,7 +67,7 @@ Ao contrário de geradores convencionais que dependem de servidores ou serviços
 
 #### Passo 1: Obter o repositório e preparar o ambiente
 ```bash
-git clone https://github.com/teu-usuario/bf-mailsignature-studio.git
+git clone https://github.com/bmfilipe/bf-mailsignature-studio.git
 cd bf-mailsignature-studio
 cp .env.example .env
 npm install
@@ -157,7 +161,7 @@ Unlike online builders that require subscriptions or store your sensitive contac
 
 #### Step 1: Clone and install
 ```bash
-git clone https://github.com/teu-usuario/bf-mailsignature-studio.git
+git clone https://github.com/bmfilipe/bf-mailsignature-studio.git
 cd bf-mailsignature-studio
 cp .env.example .env
 npm install
@@ -235,7 +239,7 @@ Su arquitectura garantiza:
 
 ```bash
 # 1. Clonar e instalar
-git clone https://github.com/teu-usuario/bf-mailsignature-studio.git
+git clone https://github.com/bmfilipe/bf-mailsignature-studio.git
 cd bf-mailsignature-studio
 cp .env.example .env
 npm install
@@ -303,7 +307,7 @@ Conçu selon le principe **local-first** :
 
 ```bash
 # 1. Cloner et installer les paquets
-git clone https://github.com/teu-usuario/bf-mailsignature-studio.git
+git clone https://github.com/bmfilipe/bf-mailsignature-studio.git
 cd bf-mailsignature-studio
 cp .env.example .env
 npm install
