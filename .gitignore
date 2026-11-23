@@ -29,5 +29,5 @@ Thumbs.db
 *.sln
 *.sw?
 
-# .bfskills
-.bfskills/*
+# Skills & playbooks locais
+.bfskills/
