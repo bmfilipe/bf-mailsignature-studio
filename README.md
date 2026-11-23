@@ -16,6 +16,10 @@
   <a href="#-français">Français</a>
 </p>
 
+<p align="center">
+  <img src="docs/screenshots/mailsignature-studio-preview.jpg" alt="MailSignatureStudio Preview" width="100%" />
+</p>
+
 ---
 
 ## 🇵🇹 Português
