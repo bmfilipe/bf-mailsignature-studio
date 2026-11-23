@@ -30,4 +30,4 @@ Thumbs.db
 *.sw?
 
 # .bfskills
-.bfskills
+.bfskills/*
